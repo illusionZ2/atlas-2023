@@ -1,0 +1,48 @@
+{
+	"id": 5805,
+	"name": "Lucario",
+	"description": "Created by roomates Mika and Flo with the support of Marten and Thilo to engrave their place on r/place",
+	"links": {},
+	"path": {
+		"228-256": [
+			[
+				1470,
+				-654
+			],
+			[
+				1491,
+				-654
+			],
+			[
+				1491,
+				-635
+			],
+			[
+				1488,
+				-631
+			],
+			[
+				1486,
+				-627
+			],
+			[
+				1476,
+				-630
+			],
+			[
+				1474,
+				-633
+			],
+			[
+				1470,
+				-632
+			]
+		]
+	},
+	"center": {
+		"228-256": [
+			1481,
+			-643
+		]
+	}
+}
